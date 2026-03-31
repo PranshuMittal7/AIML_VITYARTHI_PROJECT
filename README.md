@@ -1,10 +1,10 @@
-# 🛡️ Spam Detector AI – Project Documentation
+# Spam Detector AI – Project Documentation
 
 A complete machine-learning based SMS classification system that identifies messages as **Spam** or **Ham** using NLP preprocessing, TF-IDF vectorization, and a trained Support Vector Machine (SVM) model.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project provides a clean, modular, production-grade spam detection system:
 
@@ -19,7 +19,7 @@ The system automatically trains itself if the model file is missing.
 
 ---
 
-## ✨ Features
+## Features
 
 ### **1. Real-Time Classification**
 
@@ -75,7 +75,7 @@ Tests located in the `tests/` directory:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 VITYARTHIPROJECT/
@@ -103,7 +103,7 @@ VITYARTHIPROJECT/
 
 ---
 
-## 🚀 Running the Application
+##  Running the Application
 
 ### **1. Install Dependencies**
 
@@ -121,7 +121,7 @@ The app will auto-train a model if `model.pkl` is missing.
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 Run all tests:
 
@@ -133,7 +133,7 @@ Covers preprocessing and spam prediction logic.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the classic SMS Spam Collection dataset (`spam.csv`).
 
@@ -144,9 +144,9 @@ Columns used:
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
-**Pranshu K. Mittal** – VITYARTHI Project
+**Pranshu K. Mittal 25BAI11550** – VITYARTHI Project
 
 ---
 
